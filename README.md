@@ -6,5 +6,7 @@ These are a collection of experiments on color that I coded while working in the
 Decriptions of contents:
 
 Likert Task: This experiment presents a pair of colored circles to the user and then has them rate their similarity from 1-7.
+
 Color Wheel task: This experiment presents a central color to the user and then displays an adjustable color wheel where participants can slide their selection along the wheel to the color that best matches the central color.
+
 Triad Task: This experiment shows three colored spirals to the user. 
